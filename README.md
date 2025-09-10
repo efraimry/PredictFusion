@@ -1,4 +1,4 @@
-RetailAI360
+#RetailAI360
 
 All-in-One AI System for Fraud Detection, Demand Forecasting, and Product Recommendation
 
