@@ -1,9 +1,9 @@
-#RetailAI360
+**RetailAI360**
 
 All-in-One AI System for Fraud Detection, Demand Forecasting, and Product Recommendation
 
 
-Project Overview
+**Project Overview**
 
 RetailAI360 is an end-to-end AI solution designed for retail and e-commerce platforms. The system combines three key functionalities:
 
@@ -15,7 +15,8 @@ Product Recommendation – Suggest relevant products to customers to boost sales
 
 This project demonstrates multi-output modeling, using deep learning techniques to handle various prediction tasks simultaneously.
 
-Key Features
+
+**Key Features**
 
 Multi-output deep learning model
 
@@ -32,7 +33,7 @@ Scatter plots and error distribution for demand
 Designed for scalability and easy deployment
 
 
-Technologies
+**Technologies**
 
 Python 3.x
 
